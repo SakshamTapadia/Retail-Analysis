@@ -1,0 +1,5 @@
+fireducks
+matplotlib
+os
+pandas
+time
